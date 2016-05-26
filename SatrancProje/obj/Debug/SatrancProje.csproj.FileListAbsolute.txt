@@ -1,0 +1,40 @@
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe.config
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.pdb
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Form1.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Properties.Resources.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csproj.GenerateResource.Cache
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.exe
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe.config
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\bin\Debug\SatrancProje.pdb
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Form1.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Properties.Resources.resources
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csproj.GenerateResource.Cache
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csprojResolveAssemblyReference.cache
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe.config
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.exe
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.pdb
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.PiyonSec.resources
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\bin\Debug\SatrancProje.exe
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\bin\Debug\SatrancProje.pdb
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csprojResolveAssemblyReference.cache
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Form1.resources
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.PiyonSec.resources
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.Properties.Resources.resources
+C:\Users\Burak_2\Desktop\SatrancProje\SatrancProje\obj\Debug\SatrancProje.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Documents\Visual Studio 2015\Projects\SatrancProje\SatrancProje\obj\Debug\SatrancProje.PiyonSec.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\bin\Debug\SatrancProje.exe.config
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.exe
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.pdb
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\bin\Debug\SatrancProje.exe
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\bin\Debug\SatrancProje.pdb
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.csprojResolveAssemblyReference.cache
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.Form1.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.PiyonSec.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.Properties.Resources.resources
+C:\Users\Burak_2\Documents\Visual Studio 2015\Projects\SatrancProjeFacade\SatrancProje\obj\Debug\SatrancProje.csproj.GenerateResource.Cache
